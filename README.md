@@ -8,6 +8,6 @@ Wildcat Correction remedies this by performing three tasks: <br />
   2) Allows organization leaders to log in as an admin to view the statistics for the survey. This will allow org leaders to see what characteristics of a club new students are interested in (committment level, group-based, project-based, etc) and possibly incorporate that in their advertising or even change what the club does. <br />
   3) Offers a "Categories" page which separates all organizations on campus into an easy to read table. Users can then click on whichever club category interests them to be taken to the page on Wildcat Connection where all clubs of this type are listed. <br />
   
-Note: This project was focused on front-end development and UI appeal. It lacks any true back-end and elements such as they survey and statistics page return phony results.
+Note: This project was focused on front-end development and UI appeal, as instructed by our professors. It lacks any true back-end and elements such as the survey and statistics page return phony results.
 
 Created by: Carlos Belardi, Audrey DeBruine, Tristan Litre, and Coby Parker
